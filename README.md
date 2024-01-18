@@ -32,24 +32,34 @@ EDA involved exploring the professional data to answer key questions, such as:
 
 ### Data Analysis
 Include some interesting code/features worked with
-SELECT * FROM table1
-WHERE cond = 2;
+POwER QUERY
 
-### Results/Findings
-The analysis results are summarized as follows:
-1.	The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2.	Product Category A is the best-performing category in terms of sales and revenue.
-3.	Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
-
+### Benefits
+The analysis benefits are summarized as follows:
+- Enables stakeholders to make data-driven decisions based on insights derived from the global workforce survey.
+- Facilitates a deeper understanding of salary structures, job satisfaction, and preferences within the surveyed population.
+- Promotes transparency and accessibility of workforce-related information.
+  
 ### Recommendations
 Based on the analysis, we recommend the following actions:
-- Invest in marketing and promotions during peak sales seasons to maximize revenue.
-- Focus on expanding and promoting products in Category A.
-- Implement a customer segmentation strategy to target high-LTV customers effectively.
+- Utilize "Average Salary by Job Title" for salary benchmarking.
+- Address work-life balance concerns highlighted in "Happy With Life/Work Balance."
+- inform strategic workforce planning using geographical data.
+- Address gender-based salary disparities from "Average Salary by Sex."
+- Tailor training programs based on "Favorite Programming Language."
+- Recognize and reward roles with high job satisfaction.
+- Share key findings transparently with the organization.
+- Encourage a culture of continuous improvement based on employee feedback.
+- Use insights to guide personal professional development.
+- Engage with feedback mechanisms to express concerns or suggestions.
+- Align technology stacks with preferred programming languages.
+- Develop training programs for the most in-demand programming languages.
 
 ### Limitations
+- The dashboard provides quantitative insights but lacks the qualitative context. It may not capture the nuanced reasons behind certain trends or perceptions.
+- Care must be taken to ensure that the dashboard complies with data protection and privacy regulations. Aggregated data should be used to prevent the identification of individuals.
 
-I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
+
 
 ### References
 1.	[AlexTheAnalyst](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
