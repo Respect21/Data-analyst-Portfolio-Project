@@ -23,7 +23,7 @@ In the initial data preparation phase, we performed the following tasks in power
 ### Exploratory Data Analysis
 EDA involved exploring the professional data to answer key questions, such as:
 - Which Countries are the Survey Takers from ?
-  
+  ![country of survery](https://github.com/Respect21/Data-analyst-Portfolio-Project-in-PowerBi/assets/58913184/bc0b098e-049b-4654-a533-10229563791c)
 - What is The Average Salary by Job Title ?
 - What is Thier Favorite Programming Language ?
 - How Happy are They With the Salary ?
