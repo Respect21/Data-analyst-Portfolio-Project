@@ -1,6 +1,6 @@
 # POWER BI PROJECTS
 
-#### Project one
+#### *Project one*
 
 ## DATA PROFESSIONAL SURVEY ANALYSIS
 
